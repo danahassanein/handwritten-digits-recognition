@@ -2,7 +2,7 @@
 neural networkPython & CNN 
 
 
-Libraries:  
+Libraries used:  
 Keras  
 Tensorflow  
 OpenCV  
